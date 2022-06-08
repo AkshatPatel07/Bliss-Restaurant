@@ -9,9 +9,9 @@
     <link rel="shortcut icon" href="./images/Capture2.png" type="image/x-icon">
 
     <!-- Custom Links -->
-    <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="./css/responsive.css">
-    <link rel="stylesheet" href="./css/aos.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/responsive.css">
+    <link rel="stylesheet" href="/css/aos.css">
     <!-- <link rel="stylesheet" href="order.php"> -->
 
     <!-- Font Awseome Link -->
